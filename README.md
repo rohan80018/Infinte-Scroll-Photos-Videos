@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###Deployed Link
+Open [https://infinte-photos-and-videos.web.app/](https://infinte-photos-and-videos.web.app/) to view in your browser
+
 ## Available Scripts
 
 In the project directory, you can run:
